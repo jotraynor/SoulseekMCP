@@ -13,7 +13,11 @@
       "Bash(dir \"C:\\\\Users\\\\James\\\\Apps\\\\SoulseekMCP\" /b)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Soulseek MCP server\n\nMCP server enabling Claude to search and download music from the Soulseek\npeer-to-peer network. Includes search, download, and status tools.\n\n🤖 Generated with [Claude Code]\\(https://claude.ai/code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Soulseek MCP server\n\nMCP server enabling Claude to search and download music from the Soulseek\npeer-to-peer network. Includes search, download, and status tools.\n\n🤖 Generated with [Claude Code]\\(https://claude.ai/code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(npm install:*)",
+      "Bash(node test-client.mjs:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
